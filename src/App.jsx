@@ -24,6 +24,12 @@ function App() {
       <Banner></Banner>
       <Courses></Courses> */}
       <h1>Welcome to ReactJs development Base Pratice</h1>
+      <h2>Counter App</h2>
+      <p>Click on the buttons to increase or decrease the counter value.</p>
+      <p>Counter value will be updated in the UI.</p>
+      <p>Counter value is managed using React state.</p>
+      <p>Counter value is initialized to 0.</p>
+      <p>Counter value is updated using setCounter function.</p>
       <Counter></Counter>
     </div>
   )
